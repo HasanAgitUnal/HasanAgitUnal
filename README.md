@@ -1,16 +1,18 @@
-## Hi there 👋
+### Skills
+- Languages: Python, Java, Bash, C
+- Frameworks: Android
+- Techs: Linux, MQTT
+- Job: Nothing
 
-<!--
-**HasanAgitUnal/HasanAgitUnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Target In Future
+- Languages: Python, Java, Kotlin, C/C++, Bash
+- Frameworks: Android, QT
+- Techs: Linux, MQTT, Docker, Django, Springboot
+- Job: Cross-platform (Desktop/Mobile apps as frontend) Full-Stack Dev
 
-Here are some ideas to get you started:
+### Currently..
+- Working on: Smart School (AkllSnf)
+- Learning: C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+-  mail: hasanagitunal22@gmail.com
