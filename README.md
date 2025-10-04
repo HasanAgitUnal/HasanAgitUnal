@@ -2,7 +2,6 @@
 - Languages: Python, Java, Bash, C
 - Frameworks: Android
 - Techs: Linux, MQTT
-- Job: Nothing
 
 ### My Target In Future
 - Languages: Python, Java, Kotlin, C/C++, Bash
