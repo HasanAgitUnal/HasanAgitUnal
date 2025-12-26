@@ -10,4 +10,4 @@
 - Job: Cross-platform (Desktop/Mobile apps as frontend) Full-Stack Dev
 
 ### Contact
--  mail: hasanagitunal22@gmail.com
+-  mail: hasanagitunal@proton.me
